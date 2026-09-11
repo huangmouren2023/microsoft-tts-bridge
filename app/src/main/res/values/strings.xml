@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Microsoft TTS Bridge</string>
+    <string name="tts_engine_name">Microsoft 云端语音</string>
+    <string name="bridge_channel_name">TTS Bridge</string>
+</resources>
